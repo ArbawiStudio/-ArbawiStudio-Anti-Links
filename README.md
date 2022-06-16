@@ -34,8 +34,4 @@ client.on('messageCreate', async TOBZiCoder => {
 
 ### Developer
 
-<<<<<<< HEAD
 <a href='https://discord.com/users/779034600415428608' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=002FFF&labelColor=FFFFFF&color=FFFFFF'/></a>
-=======
-<a href='https://discord.com/users/779034600415428608' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=002FFF&labelColor=FFFFFF&color=FFFFFF'/></a>
->>>>>>> 3fed23d37c34a3558eedebaa59f6c896d6805801
