@@ -3,7 +3,7 @@ require('discord.js')
 module.exports = async(client, message, options) => {
     let Links = [ 'www', '.com', '.xyz', '.io', 'facebook', 'fb', 'youtube', 'yt', 'stackoverflow', 'discord.js.org', 'https://', 'http://', '.net', '.gg', '.org', 'ww', 'download' ]
     let FoundLink = false;
-    let Message = (options && options.WarnMessage) || `<@${message.author.id}> **The Links is not Allowed Here**`;
+    let Message = (options && options.Message) || `<@${message.author.id}> **The Links is not Allowed Here**`;
     let StaffRole = (options && options.StaffRole)
 
     for (var i in Links) {
